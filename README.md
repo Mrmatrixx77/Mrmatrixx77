@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mrmatrixx77
 - 👀 I’m interested in changing the world
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning web dev
 - 💞️ I’m looking to collaborate on fellow developers
 - 📫 you can find me @ kunalsk2001@gmail.com
 
